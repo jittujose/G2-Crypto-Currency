@@ -2,11 +2,19 @@
  Developed a decentralized token, G2, on the Ethereum platform. Utilized Solidity in Remix IDE for smart contract
  development, deployed on the testnet, and integrated Metamask for user transactions. Developed a user-friendly web interface
  using React and connected it to the Ethereum platform using Ether.js, enabling seamless G2 token buying and transfers.
+ 
  Key Technologies:
+ 
  • Ethereum (Solidity, Remix IDE)
+ 
  • Metamask Wallet
+ 
  • React Framework & Node.js
+ 
  • Ether.js
+ 
+ • Remix IDE
+ 
  This project underscores my expertise in Ethereum development, smart contracts, and user interface design for decentralized
  applications.
 
@@ -81,3 +89,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
